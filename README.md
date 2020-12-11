@@ -12,18 +12,27 @@ Docker CE latest stable release
 
 ## Build Docker Image
 
+```sh
 docker image build -t <Image Name> .
+```
 
 ## Build Docker Container
 
+```sh
 docker container run --gpus all -d -p <external port number>:<internal port number> --name <Container Name> <Image Name>
+```
 
 ## Basic Docker Commamds
 
 ### Check Container Status
+
+```sh
 docker logs <container name>
+```
 
 ### Stop Docker Container 
-docker stop <container name>
 
+```sh
+docker stop <container name>
+```
 
