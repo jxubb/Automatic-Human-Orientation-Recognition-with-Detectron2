@@ -3,7 +3,9 @@ This application is based on [Detectron2](https://github.com/facebookresearch/de
 
 # Requirements
 Ubuntu 18.04
+
 CUDA 10.1
+
 Docker CE latest stable release
 
 
