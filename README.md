@@ -40,7 +40,7 @@ docker image build -t <Image Name> .
 ## Build Docker Container
 
 ```sh
-docker container run --gpus all -d -p <external port number>:<internal port number> --name <Container Name> <Image Name>
+docker container run --gpus all -d -p <external port number>:<internal port number: the same as you defined in dockerfile> --name <Container Name> <Image Name>
 ```
 
 ## Basic Docker Commamds
