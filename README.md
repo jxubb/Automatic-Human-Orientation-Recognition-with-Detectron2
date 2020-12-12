@@ -8,7 +8,7 @@ CUDA 10.1
 
 Docker CE latest stable release
 
-# Demo
+# Show Results
 
 ## Define Orientation
 The application is used to recognize human orientation (from 0, 90, 180 and 270 degrees) and human orientation is defined below:
@@ -22,7 +22,9 @@ The application is used to recognize human orientation (from 0, 90, 180 and 270 
 ![](/images/180_degrees.jpg) |  ![](/images/270_degrees.jpg)
 
 
-## Show Result
+## Demo
+
+![detectron2 demo](/images/demo.gif)
 
 
 # Deploy this model with Docker
