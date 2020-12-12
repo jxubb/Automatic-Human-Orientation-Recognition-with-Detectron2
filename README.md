@@ -14,9 +14,9 @@ Docker CE latest stable release
 The application is used to recognize human orientation (from 0, 90, 180 and 270 degrees) and human orientation is defined below:
 
 ![0 degree](/images/0_degree.jpg) 
-![90 degree](/images/90_degree.jpg)
-![180 degree](/images/180_degree.jpg) 
-![270 degree](/images/270_degree.jpg)
+![90 degree](/images/90_degrees.jpg)
+![180 degree](/images/180_degrees.jpg) 
+![270 degree](/images/270_degrees.jpg)
 
 ## Show Result
 
