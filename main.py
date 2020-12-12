@@ -95,8 +95,8 @@ def rotate(image, angle):
     return result
 
 
-@app.post("/predict_front_RotNet_detectron2/")
-async def predict_batch_front_RotNet_detectron2(input_images: List[UploadFile] = File(...)):
+@app.post("/predict_orientation_detectron2/")
+async def predict_orientation_detectron2(input_images: List[UploadFile] = File(...)):
     """Detect the orientation of the front of a batch of sports cards"""
     predicted_angles = []
     # create predictor
