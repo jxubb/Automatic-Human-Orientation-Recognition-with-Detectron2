@@ -17,10 +17,10 @@ The application is used to recognize human orientation (from 0, 90, 180 and 270 
 :-------------------------:|:-------------------------:
 ![](/images/0_degree.jpg)  |  ![](/images/90_degrees.jpg)
 
- 
+180 degree             |  270 degree
+:-------------------------:|:-------------------------:
+![](/images/180_degrees.jpg) |  ![](/images/270_degrees.jpg)
 
-![180 degree](/images/180_degrees.jpg) 
-![270 degree](/images/270_degrees.jpg)
 
 ## Show Result
 
