@@ -12,19 +12,19 @@ Docker CE latest stable release
 
 ## Define Orientation
 The application is used to recognize human orientation (from 0, 90, 180 and 270 degrees) and human orientation is defined below:
+
 <table>
   <tr>
     <td> <img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/0_degree.jpg"  alt="1" width = 360px height = 640px ></td>
-
     <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/90_degrees.jpg" alt="2" width = 360px height = 640px></td>
    </tr> 
    <tr>
       <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/180_degrees.jpg" alt="3" width = 360px height = 640px></td>
-
       <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/270_degrees.jpg" align="right" alt="4" width = 360px height = 640px>
   </td>
   </tr>
 </table>
+
 ## Show Result
 
 
