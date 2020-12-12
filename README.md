@@ -15,12 +15,12 @@ The application is used to recognize human orientation (from 0, 90, 180 and 270 
 
 <table>
   <tr>
-    <td> <img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/0_degree.jpg"  alt="1" width = 360></td>
-    <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/90_degrees.jpg" alt="2" width = 360></td>
+    <td> <img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/0_degree.jpg"  alt="0 degree" width = 360></td>
+    <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/90_degrees.jpg" alt="90 degrees" width = 360></td>
    </tr> 
    <tr>
-      <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/180_degrees.jpg" alt="3" width = 360></td>
-      <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/270_degrees.jpg" align="right" alt="4" width = 360>
+      <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/180_degrees.jpg" alt="180 degrees" height = 360></td>
+      <td><img src="https://github.com/jxubb/Automatic-Human-Orientation-Recognition-with-Detectron2/blob/master/images/270_degrees.jpg" alt="270 degrees" height = 360>
   </td>
   </tr>
 </table>
