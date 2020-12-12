@@ -6,6 +6,8 @@ Ubuntu 18.04
 
 CUDA 10.1
 
+NVIDIA Drivers
+
 Docker CE latest stable release
 
 # Show Results
